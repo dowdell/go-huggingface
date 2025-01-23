@@ -1,4 +1,4 @@
-module github.com/gomlx/go-huggingface
+module github.com/dowdell/go-huggingface
 
 go 1.23
 
